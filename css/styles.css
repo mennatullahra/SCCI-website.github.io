@@ -1,0 +1,96 @@
+body{
+    background-color: #112033;
+}
+p{
+font-family: 'Montserrat Alternates', sans-serif;
+font-weight: 400;
+}
+h1{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 700!important;
+  font-size: 4rem!important;
+  padding: 15% 0 5% 0;
+}
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 2% ;
+  padding-bottom: 2%;
+  color: black;
+}
+hr{
+  width: 25%!important;
+  height: 2px!important;
+  margin: 0 auto!important;
+  border-top: 7px dotted #ACBED8 !important;
+  background-color: white!important;
+}
+#comm{
+  padding: 8%;
+}
+#aboutUs{
+  padding: 8%;
+  text-align: center;
+}
+#title{
+  background-color: #112033;
+}
+#photos{
+  background-color: #112033;
+}
+#footer{
+  text-align: center;
+  color: white;
+}
+.cont{
+  margin: 2%;
+}
+.cont:hover{
+  color: #c52525;
+  transform: scale(1.5);
+}
+.cont, .cont:active, .cont:visited { color: white; }
+.CU{
+  color: white!important;
+}
+.committee{
+  margin: 4%;
+}
+.about-right{
+padding-top: 3%;
+text-align: right;
+margin-left: 7%;
+}
+.about-left{
+padding-top: 3%;
+}
+.left-com{
+  margin: 2% 2% 2% 10%;
+  width: 15%;
+  float: left;
+  margin-right : 5%;
+}
+.right-com{
+  margin: 2% 2% 2% 15%;
+  width: 15%;
+  float: right;
+  margin-left : 5%;
+}
+.about-us-para{
+  color: #353535;
+  font-weight: 300 !important;
+  text-align: center;
+  padding:  0% 15% ;
+}
+.logo{
+  width: 75%;
+  margin-left: 15%;
+  margin-bottom: 15%;
+}
+.landing{
+  color: white;
+}
+.container{
+  padding: 3% 15% ;
+}
